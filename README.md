@@ -1,2 +1,3 @@
 # PyWeatherQAQC
-Placeholder repo to redirect the old URL towards the renamed and updated version.
+This project was renamed and can now be found at:
+https://github.com/WSWUP/agweather-qaqc
